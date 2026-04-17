@@ -1,11 +1,11 @@
 a = int(input())
 b = int(input())
 d = int(input())
-if d == + :
+if d == '+' :
     print(a + b)
-if d == - :
+if d == '-' :
     print(a - b)
-if d == * :
+if d == '*' :
     print(a * b)
-if d == % :
+if d == '%' :
     print(a % b)
